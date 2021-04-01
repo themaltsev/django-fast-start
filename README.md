@@ -6,4 +6,6 @@ $ python -m venv myvenv
 
 $ source env/Scripts/activate
 
+$ pip install --upgrade pip
+
 $ pip install django 
