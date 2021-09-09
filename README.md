@@ -41,3 +41,7 @@ DATABASES = {
 #создаём приложение 
 
 python manage.py startapp "name app"
+
+python manage.py makemigrate
+
+python manage.py migrate
